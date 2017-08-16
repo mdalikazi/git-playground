@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
                 mTextView.setText("Bye World");
             }
         });
-
     }
 
     @Override
